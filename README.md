@@ -1,10 +1,10 @@
-#Color to grey
+# Color to grey
 
-#Auteurs 
+# Auteurs 
 Sinquin Mathéo
 Rousere Alexis 
 
-#Description 
+# Description 
 Cette application a pour but d'afficher les couleurs données,
 dans leurs version grise pour avoir un apperçu de ce quelles rendront lors de l'impression en noir et blanc 
 
